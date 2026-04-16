@@ -47,24 +47,6 @@ The workflow is divided into four main stages:
 
 ---
 
-##  Project Structure
-
-```
-titanic-survival-analysis/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_data_analysis.ipynb
-│   ├── 03_feature_engineering.ipynb
-│   └── 04_modeling.ipynb
-│
-├── README.md
-└── data_dictionary.md
-```
 
 ---
 
