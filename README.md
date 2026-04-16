@@ -45,8 +45,6 @@ The workflow is divided into four main stages:
 * Validation approach: Train/Test Split
 * The model achieved a solid performance, indicating meaningful patterns in the data
 
----
-
 
 ---
 
