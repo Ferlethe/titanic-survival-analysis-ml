@@ -62,9 +62,6 @@ titanic-survival-analysis/
 │   ├── 03_feature_engineering.ipynb
 │   └── 04_modeling.ipynb
 │
-├── kaggle/
-│   └── titanic_kaggle.ipynb
-│
 ├── README.md
 └── data_dictionary.md
 ```
