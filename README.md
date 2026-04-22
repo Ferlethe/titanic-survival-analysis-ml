@@ -73,3 +73,24 @@ Fernando Leite
 
 Aspiring Data Scientist focused on building real-world data projects and continuously improving analytical and machine learning skills.
 
+## 📊 Results
+
+The model achieved strong predictive performance on the Titanic dataset:
+
+* Model: Random Forest Classifier
+* Validation Method: Train/Test Split
+* Accuracy: ~0.84
+
+---
+
+##  Conclusion
+
+This project demonstrates the impact of proper data preprocessing and feature engineering on model performance.
+
+Key takeaways:
+
+* Feature engineering (such as FamilySize and Title extraction) significantly improved results
+* Gender and passenger class are strong predictors of survival
+* A well-structured pipeline can achieve high performance even without complex models
+
+The final accuracy of ~0.84 highlights the effectiveness of the approach and the quality of the data preparation process.
