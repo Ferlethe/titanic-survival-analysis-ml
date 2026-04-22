@@ -74,7 +74,7 @@ The model achieved strong predictive performance on the Titanic dataset:
 
 * Model: Random Forest Classifier
 * Validation Method: Train/Test Split
-* Accuracy: ~0.84
+* Accuracy: ~0.83
 
 ---
 
@@ -88,7 +88,7 @@ Key takeaways:
 * Gender and passenger class are strong predictors of survival
 * A well-structured pipeline can achieve high performance even without complex models
 
-The final accuracy of ~0.84 highlights the effectiveness of the approach and the quality of the data preparation process.
+The final accuracy of ~0.83 highlights the effectiveness of the approach and the quality of the data preparation process.
 
 ---
 
