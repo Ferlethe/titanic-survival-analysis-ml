@@ -67,11 +67,6 @@ The workflow is divided into four main stages:
 
 ---
 
-##  Author
-
-Fernando Leite
-
-Aspiring Data Scientist focused on building real-world data projects and continuously improving analytical and machine learning skills.
 
 ##  Results
 
@@ -94,3 +89,12 @@ Key takeaways:
 * A well-structured pipeline can achieve high performance even without complex models
 
 The final accuracy of ~0.84 highlights the effectiveness of the approach and the quality of the data preparation process.
+
+---
+
+##  Author
+
+Fernando Leite
+
+Aspiring Data Scientist focused on building real-world data projects and continuously improving analytical and machine learning skills.
+
