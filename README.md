@@ -73,7 +73,7 @@ Fernando Leite
 
 Aspiring Data Scientist focused on building real-world data projects and continuously improving analytical and machine learning skills.
 
-## 📊 Results
+##  Results
 
 The model achieved strong predictive performance on the Titanic dataset:
 
