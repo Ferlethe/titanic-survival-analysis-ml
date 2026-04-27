@@ -48,6 +48,8 @@
 * **Name** = Removed after extracting Title
 * **Ticket** = Removed due to low predictive value
 * **Cabin** = Removed due to high number of missing values
+* **PassengerId** = Removed during modeling as it is a unique identifier and does not carry predictive information for survival. 
+
 
 ---
 
